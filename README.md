@@ -54,11 +54,6 @@
     alt="hasil-diagnosa2"
 />
 
-<ol>
-    <li><a href="https://github.com/alfiatqia26" target="_blank">Alfi Atqia R.</li>
-    <li><a href="https://github.com/canggihwr" target="_blank">Canggih Wahyu R.</a></li>
-    <li><a href="https://github.com/Andrian17" target="_blank">Andrian</a></li>
-<ol>
 
 ## Menjalankan Program
 
